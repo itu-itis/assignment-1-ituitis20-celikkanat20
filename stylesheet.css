@@ -1,36 +1,103 @@
 body { 
 margin: 0;
+background-color:#333333;
 }
-.disclaimer {
-background-color: #333333;
-text-align: center;
-padding:1px;
+
+.navigation {
+  float: center;
+  padding: 0px;
+  background-color:#333333;
 }
-.columnyazi ul {
+
+.navigation ul {
   position:fixed;
   top: 0 ;
   list-style-type: none;
   margin: 0;
-  padding-left: 20px;
+  padding-left: 0px;
   overflow: hidden;
   background-color: #333333; 
 }
-.columnyazi li {
+
+.navigation li {
   float: left;  
 }
-.columnyazi li a {
+
+.navigation li a {
   display: block;
   color: white;
   text-align:center;
-  padding: 10px 145px ;
+  padding: 10px 190px ;
   text-decoration: #none;
 }
-.columnyazi li a:hover {
+
+.navigation li a:hover {
   background-color: #111111;
+}
+.navigation li a:active {
+  background-color: powderblue;
+}
+
+.disclaimer {
+margin-top:35px;
+margin-bottom:0px;
+padding-top:0px;
+float:center;
+background-color:#333333;
+text-align:center;
+}
+
+.header1 {
+ margin-top:0px;
+ width:100%;
+ height:20%;
+ background-color:#333333;
+}
+
+.header1 img {
+ margin-right:50px;
+ margin-left:20px;
+ float:left;
+ margin-top: 0px;
+ width:10%;
+ height:10%;
+ background-color:#333333;
+}
+
+.header1 h1 {
+  margin-left:20px;
+  color: white;
+  text-align: left;
+  padding-left: 25px;
+  letter-spacing: 3px;
+  text-shadow: 1px 1px 5px red;
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic ;
+}
+
+.hr newa{
+padding-right:20px;
+
 }
 
 
-.columnicerik ul {
+
+.iceriksol{
+background-color:#333333;
+margin-top:50px;
+margin-right:75px;
+width: 330px;
+float:right;
+}
+
+.iceriksol h3{
+color:#d12121; 
+  padding:5px;
+  padding-left:0px;
+  margin-right:auto;
+  text-align: center;
+}
+.iceriksol ul {
   
   margin: 15px;
   padding-left: 40px;
@@ -38,36 +105,140 @@ padding:1px;
   overflow: hidden;
   background-color: #333333; 
 }
-.columnicerik li {
+.iceriksol li {
    padding:10px;
    padding-top:10px;
    list-style-type: square;
    color:#409399;
    width: 100%;
 }
-.columnicerik li a {
-  display: block;
-  color: white;
-  text-align:center;
-  padding: 10px 148px ;
-  text-decoration: #none;
-}
-.columnicerik li a:hover {
-  background-color: #111111;
+
+
+.iceriksag{
+background-color:#333333;
+width:1200px;
+height:900px;
+float:center;
+margin:30px;
+
 }
 
-.row::after {
-  content: "";
-  clear: both;
-  display: table;  
-  
-  
-  
+.iceriksag h2{
+
+background-color:#333333;
+text-align:center;
+margin-right:30px;
+
 }
+
+.iceriksag iframe{
+width:1120px;
+height:640px;
+margin-left:40px;
+}
+.iceriksag h3{
+
+font-size:160%;
+
+text-align:center;
+margin-right:30px;
+
+}
+.foto1 {
+margin-top:50px;
+height:250px;
+width:1200px;
+
+}
+.foto1 img {
+float:left;
+height:250px;
+width:450px;
+
+}
+.foto1 h4 {
+margin-top:50px;
+margin-left:470px;
+font-size:140%;
+text-align: center;
+}
+
+.foto1 h5 {
+margin-top:50px;
+margin-left:470px;
+font-size:100%;
+text-align: left;
+color:powderblue;
+}
+.foto2 {
+margin-top:100px;
+height:250px;
+width:1200px;
+
+}
+.foto2 img {
+float:left;
+height:250px;
+width:450px;
+background-color:yellow;
+}
+.foto2 h4 {
+margin-top:50px;
+margin-left:470px;
+font-size:140%;
+text-align: center;
+}
+
+.foto2 h5 {
+margin-top:50px;
+margin-left:470px;
+font-size:100%;
+text-align: left;
+color:powderblue;
+}
+.iceriksag table{
+  
+  border-collapse: collapse;
+
+}
+
+
+.iceriksag th, td {
+  width:600px;
+height:200px;
+  border: 1px solid #999;
+  padding: 0.5rem;
+  text-align: left;
+}
+
+.about {
+float:center;
+
+
+}
+
+.about h2 {
+text-align:center;
+}
+
+
+.ders {
+ list-style-type:disc;
+ margin-top:5px;
+margin-left:250px;
+font-size:150%;
+color:white;
+}
+.hoca {
+ list-style-type: circle;
+ margin-left: 1px;
+ margin-top:5px;
+ color:#111111;
+
+}
+
 
 .footer {
-  
-  
   bottom:0;
   position:fixed;
   width: 100%;
@@ -77,153 +248,8 @@ padding:1px;
   float: left;
   
 }
-
-
-
-
 .footer p{
   padding-left:10px;
   padding-top:9px;
   margin:auto; 
   }
-
-.column {
-  
-  
-  
-  float: left;
-  width: 10%;
-  height: 15%;
-  padding: 0px;
-  background-color:#333333; 
-  
-}
-
-.columnvideo iframe {
-  float: left;
-  border:13px solid #333333;
-       margin-left: auto;   
-       margin-right: auto; 
-  padding-left:100px;
-  background-color:#333333; 
-  
-}
-
-.columnvideo h2 {
-  text-align: center;
-  border:13px solid #333333;
-  padding-right:300px;     
-  
-  background-color:#333333; 
-  
-}
-.columnicerik {
-  float: left;
-  width: 20%;
-  height: 100%;
-  padding: 0px;
-  background-color:#333333; 
-  padding-bottom:0px;
-}
-
-
-
-.columnicerik h3 {
-  color:#d12121; 
-  padding:5px;
-  padding-left:65px;
-  margin:auto;
-  text-align: left;
-}
-.columnnewsp {
-  float: left;
-  width: 40%;
-  height: 40%;
-  padding: 0px;
-  background-color:#333333; 
-  padding-bottom:0px;
-}
-.columnnewsp img {
-  float: left;
-  width: 80%;
-  height: 80%;
-  padding: 10px;padding-left: 40px;
-  padding-top:30px;
-  background-color:#333333; 
-}
-.columnnews {
-  float: right;
-  width: 60%;
-  height: 40%;
-  padding: 0px;
-  background-color:#333333; 
-  padding-bottom:0px;
-  padding-top:30px;
-}
-
-.columnnews h3{
-  color:#d12121; 
-  padding:5px;
-  padding-left:0px;
-  margin:auto;
-  text-align: left;
-}
-
-
-.column img{
-  
-  float: left;
-  width: 80%;
-  height: 80%;
-  padding: 10px;padding-left: 30px;
-  background-color:#333333; 
-}
-.columnyazi {
-  
-  float: left;
-  width: 90%;
-  height: 15%;
-  padding: 0px;
-  background-color:#333333;
-}
-
-.columnvideo {
-  float: left;
-  width: 70%;
-  height: 100%;
-  padding-left: 10% ;
-  background-color:#333333;
-}
-
-.columnvideo ul {
-  
-  margin: auto;
-  margin-left: auto;
-  padding-left: 30px;
-  padding-top:0px;
-  overflow: hidden;
-  background-color: #333333; 
-}
-.columnvideo li {
-   padding:5px;
-   padding-top:5px;
-   list-style-type:disc;
-   color:#B8B6A7;
-   width: 100%;
-}
-
-
-
-
-
-
-
-.columnyazi h1 {
-  color: white;
-  text-align: left;
-  padding-left: 25px;
-  letter-spacing: 3px;
-  text-shadow: 1px 1px 5px red;
-  font-family: "Times New Roman", Times, serif;
-  font-style: italic ;
-}
