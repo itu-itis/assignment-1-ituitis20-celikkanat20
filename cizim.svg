@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="çizim.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.16"
+     inkscape:cx="214.22414"
+     inkscape:cy="525.39029"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1346"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Katman 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3160"
+       transform="matrix(1,0,0,0.71703193,0,27.043067)">
+      <rect
+         style="fill:#0036ff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264583"
+         id="rect3145"
+         width="102"
+         height="77"
+         x="43.108833"
+         y="95.797417" />
+      <circle
+         id="path3147"
+         style="fill:#0036ff;stroke:#000000;stroke-width:0.264583"
+         cx="72.076149"
+         cy="173.3477"
+         r="0.030144108" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 73.672773,173.11961 118.60632,96.25359 Z"
+         id="path3149" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 78.462642,173.11961 123.62428,95.569324 Z"
+         id="path3151" />
+      <path
+         style="fill:#d35f5f;fill-opacity:1;fill-rule:evenodd;stroke-width:0.862069"
+         d="m 281.66239,650.60581 c 4.20477,-6.4871 166.4809,-284.79133 166.82424,-286.10426 0.37395,-1.42998 1.33625,-1.61126 8.5533,-1.61126 6.67185,0 8.00816,0.21357 7.44256,1.18946 -0.37916,0.6542 -38.3187,65.81845 -84.31008,144.80945 l -83.62069,143.61999 -8.07328,0.0181 -8.07328,0.0181 1.25723,-1.93966 z"
+         id="path3153"
+         transform="scale(0.26458333)" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:25.0021px;line-height:1.25;font-family:sans-serif;fill:#d35f5f;fill-opacity:1;stroke:none;stroke-width:0.625055;"
+       x="50.883888"
+       y="125.1333"
+       id="text3164"
+       transform="scale(1.0122064,0.98794079)"><tspan
+         sodipodi:role="line"
+         id="tspan3162"
+         x="50.883888"
+         y="125.1333"
+         style="stroke-width:0.625055;fill:#d35f5f;">Y T</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:24.6302px;line-height:1.25;font-family:sans-serif;fill:#d35f5f;fill-opacity:1;stroke:none;stroke-width:0.615754;"
+       x="103.95139"
+       y="139.59889"
+       id="text3168"
+       transform="scale(0.9576164,1.0442595)"><tspan
+         sodipodi:role="line"
+         id="tspan3166"
+         x="103.95139"
+         y="139.59889"
+         style="stroke-width:0.615754;fill:#d35f5f;">H S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="96.326195"
+       y="164.9084"
+       id="text3172"><tspan
+         sodipodi:role="line"
+         id="tspan3170"
+         x="96.326195"
+         y="164.9084"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583">Yalova Termal </tspan><tspan
+         sodipodi:role="line"
+         x="96.326195"
+         y="178.13753"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan3174">High School of Science</tspan></text>
+  </g>
+</svg>

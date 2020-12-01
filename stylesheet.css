@@ -27,7 +27,7 @@ background-color:#333333;
   display: block;
   color: white;
   text-align:center;
-  padding: 10px 190px ;
+  padding: 10px 150px ;
   text-decoration: #none;
 }
 
@@ -56,7 +56,7 @@ text-align:center;
 
 .header1 img {
  margin-right:50px;
- margin-left:20px;
+ margin-left:40px;
  float:left;
  margin-top: 0px;
  width:10%;
@@ -145,7 +145,7 @@ margin-right:30px;
 
 }
 .foto1 {
-margin-top:50px;
+margin-top:110px;
 height:250px;
 width:1200px;
 
@@ -196,6 +196,60 @@ font-size:100%;
 text-align: left;
 color:powderblue;
 }
+.foto1me {
+margin-top:110px;
+height:250px;
+width:1200px;
+
+}
+.foto1me img {
+float:left;
+height:288px;
+width:280px;
+margin-left:100px;
+
+}
+.foto1me h4 {
+margin-top:50px;
+margin-left:470px;
+font-size:140%;
+text-align: center;
+}
+
+.foto1me h5 {
+margin-top:50px;
+margin-left:470px;
+font-size:100%;
+text-align: left;
+color:powderblue;
+}
+.foto2me {
+margin-top:100px;
+height:250px;
+width:1200px;
+
+}
+.foto2me img {
+float:left;
+height:250px;
+width:450px;
+background-color:#333333;
+}
+.foto2me h4 {
+margin-top:50px;
+margin-left:470px;
+font-size:140%;
+text-align: center;
+}
+
+.foto2me h5 {
+margin-top:50px;
+margin-left:470px;
+font-size:100%;
+text-align: left;
+color:powderblue;
+}
+
 .iceriksag table{
   
   border-collapse: collapse;
