@@ -4,31 +4,40 @@ background-color:#333333;
 }
 
 .navigation {
-  float: center;
+  position:fixed;
   padding: 0px;
   background-color:#333333;
+  
+  width: 100%;
+  top:0;
+  
 }
 
 .navigation ul {
-  position:fixed;
+  position:relative;
   top: 0 ;
   list-style-type: none;
   margin: 0;
   padding-left: 0px;
   overflow: hidden;
   background-color: #505050; 
+  
 }
 
 .navigation li {
-  float: left;  
+  float: left; 
+  width:20%; 
+  
 }
 
 .navigation li a {
   display: block;
   color: white;
   text-align:center;
-  padding: 10px 150px ;
-  text-decoration: #none;
+  padding: 10px 110px ;
+  text-decoration: none;
+  
+  
 }
 
 .navigation li a:hover {
